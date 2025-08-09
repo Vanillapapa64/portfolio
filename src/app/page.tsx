@@ -13,8 +13,9 @@ export default function Home() {
                 objectFit: "cover",
                 borderRadius: "100px", //👈 and here you can select border radius
               }}
-          alt="Picture of Navkirat"/>
-          priority={true}
+          alt="Picture of Navkirat"
+          priority={true}/>
+          
         </div>
         <div>
           <div style={{ fontFamily: 'var(--font-clash-display)' }} className="pt-4 md:pt-0 flex filter drop-shadow-glow items-center xl:text-8xl font-medium text-yellow-100 md:text-7xl text-6xl text-center">

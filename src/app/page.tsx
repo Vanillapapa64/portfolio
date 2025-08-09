@@ -27,7 +27,7 @@ export default function Home() {
               height={38}
               alt="Picture of the author"/></a>
           </div>
-          <div className="pt-4 text-2xl font-light text-slate-300 tracking-widest">WEB | ML | DEV OPS | DS</div>
+          <div className="md:pt-4 md:text-2xl text-center md:text-left font-light text-slate-300 tracking-widest">WEB | ML | DEV OPS | DS</div>
         </div>
       </div>
     </div>

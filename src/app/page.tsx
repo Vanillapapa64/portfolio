@@ -18,7 +18,7 @@ export default function Home() {
           
         </div>
         <div>
-          <div style={{ fontFamily: 'var(--font-clash-display)' }} className="pt-4 md:pt-0 flex filter drop-shadow-glow items-center xl:text-8xl font-medium text-yellow-100 md:text-7xl text-6xl text-center">
+          <div style={{ fontFamily: 'var(--font-clash-display)' }} className="pt-4 md:pt-0 flex filter drop-shadow-glow items-center xl:text-8xl text-yellow-100 md:text-7xl text-6xl text-center">
             Navkirat Singh
           </div>
           <div style={{ fontFamily: 'var(--font-swit-display)' }} className="flex justify-center md:justify-start  gap-4 text-xl md:text-2xl xl:text-4xl ">
